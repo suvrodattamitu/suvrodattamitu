@@ -2,7 +2,7 @@
 
 Software Developer. I create projects by experimenting with various Technologies. 
 
-![Suvro Datta's github stats](https://github-readme-stats.vercel.app/api?username=suvrodattamitu&count_private=true)
+![Suvro Datta's github stats](https://github-readme-stats.vercel.app/api?username=suvrodattamitu&count_private=true&theme=dark)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suvrodattamitu&layout=compact&theme=dark)
 
