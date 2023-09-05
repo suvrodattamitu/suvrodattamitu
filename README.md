@@ -8,9 +8,9 @@ Software Developer. A learner and explorer.
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrupo&theme=blue-green)
 
 
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=suvrodattamitu&count_private=true&theme=dark)
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=suvrodattamitu)
 
 My Stacks
 
