@@ -1,7 +1,7 @@
 ## Suvro Datta
 
 Software Developer. A learner and explorer. </br> 
-LeetCode Profile : https://leetcode.com/u/famous_chef
+LeetCode Profile : https://leetcode.com/u/suvro_datta
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suvrodattamitu&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
 
